@@ -1,14 +1,13 @@
 pragma solidity ^0.4.16;
 
 /*
- * Abstract Token Smart Contract.  Copyright © 2017 by ABDK Consulting.
+ * Abstract Token Smart Contract.  
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
 pragma solidity ^0.4.16;
 
 /*
  * ERC-20 Standard Token Smart Contract Interface.
- * Copyright © 2016–2017 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
 pragma solidity ^0.4.16;
@@ -102,7 +101,7 @@ contract Token {
 }
 
 /*
- * Safe Math Smart Contract.  Copyright © 2016–2017 by ABDK Consulting.
+ * Safe Math Smart Contract.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
  */
 pragma solidity ^0.4.16;
